@@ -114,18 +114,6 @@
       "text": "Сделали список задач",
       "completed": true,
       "id": 16
-    },
-    {
-      "listId": 7,
-      "text": "Сделали удаление и редактирование задач и списков",
-      "completed": true,
-      "id": 17
-    },
-    {
-      "listId": 8,
-      "text": "tttt",
-      "completed": false,
-      "id": 18
     }
   ],
   "colors": [
